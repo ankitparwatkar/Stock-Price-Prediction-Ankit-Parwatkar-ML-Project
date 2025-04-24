@@ -4,3 +4,4 @@ scikit-learn
 streamlit
 pickle
 pip
+pickle-mixin
